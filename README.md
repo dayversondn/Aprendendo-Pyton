@@ -11,12 +11,14 @@ Foi criado um pequeno jogo para aprendermos estruturas básicas da linguagem pyt
 
 O jogo consiste em tentarmos adivinhar um determinado número entre 1 e 100, tendo 3 níves de dificuldade e um número inicial de pontos. 
 
-### Nívels de dificultades
+### Níveis de dificuldades
 
 Quanto maior o nível maior é a dificuldade. 
 
 Fácil   - 20 tentativas
+
 Médio   - 10 tentativas
+
 Difícil - 5 tentativas
 
 ### Pontuação
